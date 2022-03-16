@@ -1,5 +1,5 @@
 a contains a
-b contains bbot
+b contains bb
 c contains c
 d contains d
 
